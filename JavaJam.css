@@ -28,14 +28,14 @@ body {
     background-color: #fcebb6;
     color: #221811;
     font-family: Verdana, Arial, sans-serif;
-    background-image: url("/images/background.gif");
+    background-image: url("images/background.gif");
 }
 
 header {
     background-color: #d2b48c;
     /*text-align: center;*/
     height: 150px;
-    background-image: url("/images/javajamlogo.jpg");
+    background-image: url("images/javajamlogo.jpg");
     background-repeat: no-repeat;
 }
 
